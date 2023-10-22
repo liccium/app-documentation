@@ -2,7 +2,7 @@
 
 Liccium allows users to generate and manage ISCC codes, which are decentralised identifiers that can be generated from digital media assets in various file formats.
 
-<figure><img src="../.gitbook/assets/ISCC generation.gif" alt="" width="375"><figcaption><p>ISCC generation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ISCC generation.gif" alt="" width="563"><figcaption><p>ISCC generation</p></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```
