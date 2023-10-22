@@ -16,4 +16,4 @@ A protocol to facilitate machine-readable opt-out declarations for Text and Data
 
 <figure><img src="../.gitbook/assets/TDMAI@2x.png" alt="" width="563"><figcaption><p>TDM·AI policy</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption><p>Machine-readable opt-out declaration (Art. 4 CDSM)</p></figcaption></figure>
