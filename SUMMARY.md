@@ -2,6 +2,7 @@
 
 * [About this website](README.md)
 * [About Liccium](about-liccium.md)
+* [Become a test user](become-a-test-user.md)
 * [Features](features/README.md)
   * [Sign-up and log-in](features/sign-up-and-log-in.md)
   * [Generating ISCC Codes](features/generating-iscc-codes.md)
