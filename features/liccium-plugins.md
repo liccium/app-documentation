@@ -12,8 +12,18 @@ Photographers and photojournalists currently use the IPTC standards to attach te
 
 ## TDM·AI policy
 
-A protocol to facilitate machine-readable opt-out declarations for Text and Data Mining (TDM) for AI providers based on the DSM Directive on Copyright 2019/790, Article 4, leveraging the benefits of the International Standard Content Code ([ISCC](https://iscc.codes)) and [Creator Credentials](https://docs.creatorcredentials.com/).
+With the evolving landscape of AI, there's a pressing need for an application that allows content creators and rightsholders to declare their permissions regarding TDM.&#x20;
+
+The EU's DSM Directive on Copyright provides a default condition for TDM, but there's ambiguity when rightsholders want to opt-out or explicitly give permission. The TDM·AI protocol is motivated by the need to:
+
+1. Provide clarity and ease for rightsholders to declare their TDM permissions.
+2. Offer a decentralised, immutable, and verifiable system for these declarations.
+3. Ensure that AI providers and other stakeholders can easily understand and respect these declarations.
+
+Liccium offers a protocol to facilitate machine-readable opt-out declarations for Text and Data Mining (TDM) for AI providers based on the DSM Directive on Copyright 2019/790, Article 4, leveraging the benefits of the International Standard Content Code ([ISCC](https://iscc.codes)) and [Creator Credentials](https://docs.creatorcredentials.com/).
 
 <figure><img src="../.gitbook/assets/TDMAI@2x.png" alt="" width="563"><figcaption><p>TDM·AI policy</p></figcaption></figure>
+
+The declaration binds a machine-readable declaration to the content by the rightsholder limiting commercial TDM usage.
 
 <figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption><p>Machine-readable opt-out declaration (Art. 4 CDSM)</p></figcaption></figure>
