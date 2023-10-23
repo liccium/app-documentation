@@ -2,6 +2,7 @@
 
 * [About this website](README.md)
 * [About Liccium](about-liccium.md)
+* [Media Sectors](media-sectors.md)
 * [Become a test user](become-a-test-user.md)
 * [Features](features/README.md)
   * [Sign-up and log-in](features/sign-up-and-log-in.md)
@@ -10,6 +11,7 @@
   * [Liccium plugins](features/liccium-plugins.md)
   * [Creator credentials](features/creator-credentials.md)
   * [Content declarations](features/content-declarations.md)
+  * [Liccium browser plugin](features/liccium-browser-plugin.md)
 * [Requirements](requirements.md)
 * [Terms of service](terms-of-service.md)
 * [Imprint information](imprint-information.md)
