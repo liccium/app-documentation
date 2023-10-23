@@ -8,7 +8,7 @@ Liccium plugins enable the integration of use-case- or industry-specific metadat
 
 Photographers and photojournalists currently use the IPTC standards to attach technical, descriptive, and administrative metadata or copyright information to their images. With Liccium, they can inseparably bind IPTC photo metadata to their content even if the content has been altered or manipulated, or metadata have been stripped from the content.
 
-<figure><img src="../.gitbook/assets/IPTC@2x.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IPTC@2x.png" alt="" width="563"><figcaption><p>Providing IPTC photo metadata</p></figcaption></figure>
 
 ## TDM·AI policy
 
@@ -26,4 +26,5 @@ Liccium offers a protocol to facilitate machine-readable opt-out declarations fo
 
 The declaration binds a machine-readable declaration to the content by the rightsholder limiting commercial TDM usage.
 
-<figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption><p>Machine-readable opt-out declaration (Art. 4 CDSM)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption><p>Machine-readable opt-out declaration (Art. 4 EU DSM Directive)</p></figcaption></figure>
+
