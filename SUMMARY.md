@@ -1,7 +1,6 @@
 # Table of contents
 
-* [About this website](README.md)
-* [About Liccium](about-liccium.md)
+* [About Liccium](README.md)
 * [Media Sectors](media-sectors.md)
 * [Become a test user](become-a-test-user.md)
 * [Features](features/README.md)

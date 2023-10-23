@@ -1,18 +1,32 @@
-# About this website
+# About Liccium
 
-## About the MVP of the Liccium.app
+<figure><img src="https://4212735520-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC9WTgUwBWkLFAgW01Gqi%2Fuploads%2FtGQrB3l5By9bFdhTVlMA%2FLiccium-Trust-Engine.png?alt=media&#x26;token=066cdf2f-b362-4327-bbf4-2fee03046ffa" alt=""><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
 
-In 2022, Posth Werk was awarded funding through the [Trublo.eu grant program](https://www.trublo.eu/verisimpledc/) from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 957228.&#x20;
+Introducing Liccium Trust Engine – the next generation rights and media asset management for the decentralised web.&#x20;
 
-Our objective was to define a protocol and develop a user-friendly application that enables the declaration of content ownership, metadata, and rights management information based on the upcoming [ISCC](https://iscc.codes) standard for decentralised digital content identification.
+### Verifiable declarations
 
-To enhance credibility and establish trust in content assertions, we aimed to introduce publicly accessible, verifiable credentials to the media sectors that can identify creators and rightsholders based on social or institutional authentication.
+With Liccium, content creators and rightsholders can digitally sign their original creative works and make publicly verifiable declarations of their original content.
 
-Thanks to the grant, we could initiate the development of the Liccium app. While the app is still in its early stages, we welcome early feedback to ensure that it meets the expectations of creators and rightsholders.
+Liccium helps creators and rightsholders to generate, manage, and declare content-derived identifiers (ISCC codes) for digital media content. Using ISCC, they can inseparably bind verifiable claims – e.g. rights, license, and other product metadata – to the fingerprint of their digital content.&#x20;
 
-We are excited to announce that the MVP of the app is now ready for testing. We invite individual users to participate in the MVP and provide feedback on its features, requirements, and terms of service.
+All declarations are automatically accessible via decentralised content registries, which allow users or machines to discover, identify, and verify the authenticity and integrity of digital media content and resolve rights, licenses, and other product metadata.
 
-Please visit the following pages for more information about the Liccium app's features, requirements, and terms of service.
+### Creator attribution
 
-For detailed information, please have a look at the Liccium whitepaper that can be found on: [https://docs.liccium.com](https://docs.liccium.com).
+Digital signatures and verifiable creator credentials increase trust in assertions, claims and the authenticity of the original content and help to sufficiently identify creators and rightsholders.
+
+### ISCC
+
+Liccium is based on the International Standard Content Code (ISCC), a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video, text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
+
+The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
+
+[Current status of the ISCC: Draft International Standard ISO/DIS 24138](https://www.iso.org/standard/77899.html)
+
+Using a novel standard for decentralised content identification (ISCC), these claims inseparably stick with the content without relying on watermarks or embedded metadata. This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity.&#x20;
+
+Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
+
+
 
