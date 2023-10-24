@@ -8,7 +8,7 @@ NL 23three4 EG Leiden\
 ​[werk@posth.me](mailto:werk@posth.me) \
 \+31 six 1two67sixseven26
 
-Version: v0.2 Date: 2023-05-01
+Version: v0.3 Date: 2023-10-23
 
 ### Licence <a href="#licence" id="licence"></a>
 
