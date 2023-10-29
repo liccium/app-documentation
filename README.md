@@ -1,6 +1,8 @@
 # About Liccium
 
-<figure><img src="https://4212735520-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC9WTgUwBWkLFAgW01Gqi%2Fuploads%2FtGQrB3l5By9bFdhTVlMA%2FLiccium-Trust-Engine.png?alt=media&#x26;token=066cdf2f-b362-4327-bbf4-2fee03046ffa" alt=""><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
+
+
+<figure><picture><source srcset=".gitbook/assets/Liccium-Trust-Engine-white.png" media="(prefers-color-scheme: dark)"><img src="https://4212735520-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC9WTgUwBWkLFAgW01Gqi%2Fuploads%2FtGQrB3l5By9bFdhTVlMA%2FLiccium-Trust-Engine.png?alt=media&#x26;token=066cdf2f-b362-4327-bbf4-2fee03046ffa" alt=""></picture><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
 
 Introducing Liccium Trust Engine – the next generation rights and media asset management for the decentralised web.&#x20;
 
