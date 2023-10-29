@@ -8,4 +8,6 @@ The plugin will draw information from the Liccium index, which is based on conte
 
 Overall, the Liccium browser plugin will provide a straightforward and effective way for users to verify the authenticity and accuracy of digital media content encountered while browsing the web, helping to establish trust in online publications, data, and information.
 
-The Liccium browser plugin is not yet released. However, you can install and test the alpha release of the Liccium browser plugin by installing the plugin via GitHub: [https://github.com/liccium/liccium-chrome-extension/blob/main/README.md](https://github.com/liccium/liccium-chrome-extension/blob/main/README.md)
+{% hint style="info" %}
+You can install and test the alpha release of the Liccium browser plugin by installing the plugin via GitHub: [https://github.com/liccium/liccium-chrome-extension/blob/main/README.md](https://github.com/liccium/liccium-chrome-extension/blob/main/README.md)
+{% endhint %}
