@@ -1,6 +1,6 @@
 # Terms of service
 
-The MVP of the Liccium app is **for testing purposes only and pre-alpha**! By using the MVP of the Liccium app you accept the following terms of service.
+The MVP of the Liccium app is **for testing purposes only and pre-alpha**! By using the MVP of the Liccium app you accept the following preliminary terms of service.
 
 ## ISCC Codes
 
