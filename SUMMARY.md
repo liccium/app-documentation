@@ -13,7 +13,7 @@
   * [Liccium browser plugin](features/liccium-browser-plugin.md)
   * [Liccium VM](features/liccium-vm.md)
 * [Creator services and plans](creator-services-and-plans.md)
-* [Liccium API](liccium-api.md)
+* [Liccium Search API](liccium-search-api.md)
 * [Requirements](requirements.md)
 * [Terms of service](terms-of-service.md)
 * [Imprint information](imprint-information.md)
