@@ -1,4 +1,8 @@
-# About Liccium
+---
+description: This is the documentation of the Liccium user application
+---
+
+# Liccium Documentation
 
 
 
