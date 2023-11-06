@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About Liccium](README.md)
-* [Media Sectors](media-sectors.md)
+* [User Groups and Media Sectors](user-groups-and-media-sectors.md)
 * [Become a test user](become-a-test-user.md)
 * [Features](features/README.md)
   * [Sign-up and log-in](features/sign-up-and-log-in.md)
