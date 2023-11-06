@@ -12,6 +12,8 @@
   * [Content declarations](features/content-declarations.md)
   * [Liccium browser plugin](features/liccium-browser-plugin.md)
   * [Liccium VM](features/liccium-vm.md)
+* [Future development](future-development/README.md)
+  * [Account abstraction](future-development/account-abstraction.md)
 * [Creator services and plans](creator-services-and-plans.md)
 * [Liccium Search API](liccium-search-api.md)
 * [Requirements](requirements.md)
