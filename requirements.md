@@ -16,15 +16,20 @@ Alternatively, you can sign-up and log-in with your email address via Magic Conn
 
 ## Network selection
 
-Both options to sign-up and log-in will appear once you enter the landing page.
+You can select to use the following networks:&#x20;
 
-If you use MetaMask to sign-up and log-in, you have to manually switch the wallet to the `Goerli testnet`.&#x20;
-
-If you use Magic Connectto sign-up and log-in, the app will automatically switch to the `Goerli testnet`.
+* `Ethereum Goerli testnet`&#x20;
+* `Ethereum mainnet`
+* `Polygon Mumbai testnet`
+* `Polygon Mumbai mainnet`
 
 ## Transaction fees
 
-Remember to fund your wallet to pay for transaction fees! To make content declarations on the `Goerli testnet` you need to own native tokens of this network. If you do not have any `Goerli ETH`, you can claim tokens for testing purposes:
+Remember to fund your wallet to pay for transaction fees!&#x20;
+
+#### Ethereum Goerli testnet
+
+To make content declarations on the `Goerli testnet` you need to own native tokens of this network. If you do not have any `Goerli ETH`, you can claim tokens for testing purposes:
 
 * Go to any Goerli Faucet, e.g.: [https://goerlifaucet.com](https://goerlifaucet.com).
 * This faucet is run by [https://www.alchemy.com/](https://www.alchemy.com/), you can sign-up, no costs are involved to request funds! Alchemy is considered to be a trusted entity in the web3 space.
