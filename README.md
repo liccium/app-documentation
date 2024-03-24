@@ -28,7 +28,7 @@ Liccium is based on the International Standard Content Code (ISCC), a content-de
 
 The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
 
-[Current status of the ISCC: Draft International Standard ISO/DIS 24138](https://www.iso.org/standard/77899.html)
+[Current status of the ISCC: Draft International Standard ISO 24138](https://www.iso.org/standard/77899.html)
 
 Using a novel standard for decentralised content identification (ISCC), these claims inseparably stick with the content without relying on watermarks or embedded metadata. This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity.&#x20;
 

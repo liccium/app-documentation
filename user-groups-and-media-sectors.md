@@ -1,29 +1,5 @@
-# Media Sectors
+# User Groups and Media Sectors
 
-Liccium aims to become a long-term trusted partner for secure digital distribution, copyright, and licensing in the decentralised web, DIDs and verifiable credentials, and the certification of digital media content. The Liccium app can be used by a great variety of different user groups and creative communities from different media sectors.
+Liccium aims to become a long-term trusted partner for secure digital distribution, copyright, and licensing in the decentralised web. The Liccium app can be used by a great variety of different user groups and creative communities from different media sectors.
 
-<figure><img src=".gitbook/assets/User groups@2x.png" alt="" width="563"><figcaption></figcaption></figure>
-
-## **IMAGES**
-
-Photographers, photo journalists, NFT and web3 creators
-
-## **AUDIO**
-
-Record labels, music publishers, bands, musicians, studios
-
-## **TEXT**
-
-Publishers (academic, educational, trade, news), journalists, writers, bloggers
-
-## **VIDEO**
-
-TV and video producers and broadcasters, vloggers
-
-## **INTERMEDIARIES**
-
-Audio, video and ebook distributors, platforms, retailers, libraries, archives, collecting societies (CMO’s), membership organisations
-
-## **E-COMMERCE**
-
-Businesses and individuals that publish content in any digital format, such as written offers, agreements, promotion material
+<table><thead><tr><th width="102"></th><th width="152">Creators</th><th width="202">Rightsholders</th><th>Intermediaries</th></tr></thead><tbody><tr><td><strong>Image</strong></td><td>Photographers</td><td>Stock photo platforms, publishers; photo licensing agencies</td><td>News agencies</td></tr><tr><td><strong>Audio</strong></td><td>Bands; singers / songwriters; podcasters</td><td>Record labels, music publishers, studios</td><td>Music distributors, CMOs</td></tr><tr><td><strong>Text</strong></td><td>Authors; independent journalists; bloggers</td><td>Literary Agencies; Publishers (academic, trade, educational, audiobook, news)</td><td>News and ebook distributors; libraries</td></tr><tr><td><strong>Video</strong></td><td>Vloggers</td><td>TV and video producers and broadcasters</td><td>Video distributors</td></tr></tbody></table>

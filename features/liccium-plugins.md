@@ -28,3 +28,8 @@ The declaration binds a machine-readable declaration to the content by the right
 
 <figure><img src="../.gitbook/assets/TDMAI false@2x.png" alt="" width="563"><figcaption><p>Machine-readable opt-out declaration (Art. 4 EU DSM Directive)</p></figcaption></figure>
 
+## C2PA Metadata
+
+Using Liccium, users can create a C2PA manifest from the provided metadata and embed the manifest into media asset. The C2PA method stores information directly within the media file. If embedded metadata is removed or inaccessible, the content can’t be checked for authenticity.&#x20;
+
+That’s why Liccium not only includes C2PA metadata inside the file but additionally creates a separate record of the data outside the file. This record is inextricably connected to the content’s unique fingerprint (ISCC), ensuring the data can still be verified even if it’s removed from the file itself.

@@ -1,12 +1,12 @@
 # Terms of service
 
-## Terms of the Liccium Services, offered by Posth Werk BV, v.0.1
+## Terms of the Liccium Services, offered by Liccium B.V., v.0.1
 
 ### 1. Terms of Service
 
-These general terms and conditions ("Terms") apply to the use of the services offered on Liccium.app (collectively the "Liccium Services"). With "Liccium Services", we mean the services provided by the Posth Werk BV.
+These general terms and conditions ("Terms") apply to the use of the services offered on Liccium.app (collectively the "Liccium Services"). With "Liccium Services", we mean the services provided by the Liccium B.V.
 
-**Posth Werk BV only offers services to businesses and professionals in the B2B relationship. The rights of consumers are not restricted by these provisions.**
+**Liccium B.V. only offers services to businesses and professionals in the B2B relationship. The rights of consumers are not restricted by these provisions.**
 
 1.2 With Liccium Services, professional content creators and rightsholders can generate and manage content-derived identifiers (ISCC codes).
 
@@ -22,11 +22,11 @@ Public declarations using the Liccium Services allow to bind product metadata, r
 
 **2.3 Liccium Services are currently available as an invite-only alpha version. Nevertheless, declarations are possible, valid and persistent, even if the software itself is still being modified.**
 
-2.4 Posth Werk BV reserves the right to change, discontinue or otherwise adjust the fees and features associated with your subscription. We may also propose that you purchase a new subscription that is similar to your previous expiring subscription. We will give you at least a thirty (30) days' notice of any changes to the applicable fees and charges or the introduction of new fees and charges and ask for your consent. If you do not wish to continue your subscription with the new fees or features, you may cancel your subscription. If you accept the new subscription, its terms and conditions will apply during the renewal period and thereafter, together with these Terms.
+2.4 Liccium B.V. reserves the right to change, discontinue or otherwise adjust the fees and features associated with your subscription. We may also propose that you purchase a new subscription that is similar to your previous expiring subscription. We will give you at least a thirty (30) days' notice of any changes to the applicable fees and charges or the introduction of new fees and charges and ask for your consent. If you do not wish to continue your subscription with the new fees or features, you may cancel your subscription. If you accept the new subscription, its terms and conditions will apply during the renewal period and thereafter, together with these Terms.
 
-### 3. Your Contract with Posth Werk BV
+### 3. Your Contract with Liccium B.V.
 
-In concluding an agreement with Posth Werk BV, users can choose between different plans, which are subject to the conditions of these Terms. All plans allow you to generate content-derived identifiers, manage metadata, and make public declarations of metadata. The Premium, Pro and Enterprise plans enhance the functionality of the Liccium Services with an increased storage of media assets, custodial and bulk declarations, and the use of additional plugins, which allow you to provide industry specific metadata for your content.
+In concluding an agreement with Liccium B.V., users can choose between different plans, which are subject to the conditions of these Terms. All plans allow you to generate content-derived identifiers, manage metadata, and make public declarations of metadata. The Premium, Pro and Enterprise plans enhance the functionality of the Liccium Services with an increased storage of media assets, custodial and bulk declarations, and the use of additional plugins, which allow you to provide industry specific metadata for your content.
 
 ### 4. Liability
 
@@ -34,13 +34,13 @@ In concluding an agreement with Posth Werk BV, users can choose between differen
 
 4.2 Liccium BV makes no warranties or guarantees, even implied. This includes warranties of merchantability or fitness for particular purposes.
 
-4.3 The Liccium Services are hosted on servers controlled by Posth Werk BV. Any data you upload, including content of all media types and metadata, may be deleted by Posth Werk BV in case you cease to use the Liccium Services. On request, you will be able to export and download all data you provided. This provision does not affect the public data that you published on a blockchain or third party hosting servers, such as IPFS. This data will be persistently accessible to the public and cannot be deleted.
+4.3 The Liccium Services are hosted on servers controlled by Liccium B.V. Any data you upload, including content of all media types and metadata, may be deleted by Liccium B.V. in case you cease to use the Liccium Services. On request, you will be able to export and download all data you provided. This provision does not affect the public data that you published on a blockchain or third party hosting servers, such as IPFS. This data will be persistently accessible to the public and cannot be deleted.
 
 4.4 The liability for damages is expressly limited to the contract value. The contract value is the total amount that you have paid to Liccium BV within the last twelve (12) months prior to the event giving rise to the claim.
 
 ### 5. Indemnification
 
-5.1 You agree to defend, indemnify and hold Posth Werk BV harmless from and against all third party claims, liability, damages and costs (including, without limitation, attorneys' fees) arising out of or related to any of the following: (a) the use of the Liccium Services by you or your authorised users; (b) breaches of these Terms by you or your account administrator(s) or your authorised users; (c) the infringement by you or your authorised users of any intellectual property or other right of any person or entity; and (d) the nature and content of any Customer Data processed by the Liccium Services.
+5.1 You agree to defend, indemnify and hold Liccium B.V. harmless from and against all third party claims, liability, damages and costs (including, without limitation, attorneys' fees) arising out of or related to any of the following: (a) the use of the Liccium Services by you or your authorised users; (b) breaches of these Terms by you or your account administrator(s) or your authorised users; (c) the infringement by you or your authorised users of any intellectual property or other right of any person or entity; and (d) the nature and content of any Customer Data processed by the Liccium Services.
 
 ### 6. Right of Use
 
@@ -58,7 +58,7 @@ All present and future intellectual property or other proprietary rights are and
 
 7.2 If you use the Liccium Services to licence your works or other assets to third parties, you may use the trademark/business name "Liccium" in this context and display it on your websites and own promotional materials. Any other use of the trademark/business name for other purposes is not permitted.
 
-7.3 You may not licence, sub-license or use the Liccium Services or the documentation of the Liccium Services provided by Liccium BV ("Documentation") in any way other than expressly permitted by Posth Werk BV.
+7.3 You may not licence, sub-license or use the Liccium Services or the documentation of the Liccium Services provided by Liccium BV ("Documentation") in any way other than expressly permitted by Liccium B.V.
 
 ### 8. Your Obligations as a User
 
@@ -89,7 +89,7 @@ You are aware of and understand that:
 * The generation or declaration of an ISCC code in itself does not make any statement or claim about authorship or ownership of the identified content
 * any user, system, or machine with access to the digital asset may also independently generate an identical or similar ISCC code from the identical or similar asset.
 
-**Posth Werk BV is not liable for the software developed by third parties or damages or claims resulting from faults, mistakes and bugs contained within.**
+**Liccium B.V. is not liable for the software developed by third parties or damages or claims resulting from faults, mistakes and bugs contained within.**
 
 ### 10. Asset and Metadata Management
 
@@ -101,9 +101,9 @@ Should you identify any content that breaches these stipulations, please promptl
 
 **A persistent link (URL) is generated by the Liccium Services to the metadata (“Metadata URL”).**
 
-10.2 Based on your specific agreement with Posth Werk BV, the company reserves the right to store your assets and metadata on its servers. These assets and metadata can be deleted upon your request. Notably, Posth Werk BV's servers are owned by Amazon.com, Inc. and are situated in Frankfurt/M., Germany.
+10.2 Based on your specific agreement with Liccium B.V., the company reserves the right to store your assets and metadata on its servers. These assets and metadata can be deleted upon your request. Notably, Liccium B.V.'s servers are owned by Amazon.com, Inc. and are situated in Frankfurt/M., Germany.
 
-If you have a distinct agreement with Posth Werk BV to utilise Liccium Services on-premise, you'll be responsible for your data storage, eliminating the need to upload content to Posth Werk BV's servers. In such instances, the terms of your specialised agreement with Posth Werb BV, termed the "Liccium Virtual Machine Service," will be in effect.
+If you have a distinct agreement with Liccium B.V. to utilise Liccium Services on-premise, you'll be responsible for your data storage, eliminating the need to upload content to Liccium B.V.'s servers. In such instances, the terms of your specialised agreement with Liccium B.V., termed the "Liccium Virtual Machine Service," will be in effect.
 
 ### 11. Declarations
 
@@ -119,7 +119,7 @@ The metadata encompassed in a Declaration is publicly accessible. It may be cont
 
 **It's crucial to understand that once a Declaration is made, the data becomes irreversible and cannot be removed from publicly accessible blockchains. While Declarations can't be revoked or deleted, they can be modified or updated. However, the original Declaration will always be retained in the asset's history.**
 
-11.4 Posth Werk BV reserves, as part of the preprocessing service, the right to generate all necessary assets for the service and the right to change and amend and create assets and metadata as necessary for the service. This includes saving versions of the original assets in differently edited versions (i.e., in case of images: cropping), this right is solely restricted for the purposes to enable a best possible search of the original file and the allocation of assets on platforms and Social Media such as Instagram where files are typically and automatically edited and amended (“Matching”).
+11.4 Liccium B.V. reserves, as part of the preprocessing service, the right to generate all necessary assets for the service and the right to change and amend and create assets and metadata as necessary for the service. This includes saving versions of the original assets in differently edited versions (i.e., in case of images: cropping), this right is solely restricted for the purposes to enable a best possible search of the original file and the allocation of assets on platforms and Social Media such as Instagram where files are typically and automatically edited and amended (“Matching”).
 
 11.5 Should you wish for a removal of data, please send a request specifying the assets with their ISCC code individually by sending an e-mail Address to info@liccium.com. We may request further documentation about rights ownership in the course of removal.
 
@@ -127,21 +127,21 @@ The metadata encompassed in a Declaration is publicly accessible. It may be cont
 
 12.1 Your Termination
 
-You have the option to terminate your agreement and thereby close your account by providing Posth Werk BV with a written notice ten (10) days in advance. This can be done by sending an email to info@liccium.com.
+You have the option to terminate your agreement and thereby close your account by providing Liccium B.V. with a written notice ten (10) days in advance. This can be done by sending an email to info@liccium.com.
 
 Upon termination, your data will be deleted from our servers, you have the possibility to download your data before this date.
 
 Declarations will remain valid and persistent on public blockchain networks.
 
-12.2 Termination by Posth Werk BV.
+12.2 Termination by Liccium B.V.
 
 If you act in breach of contract, in particular if you (a) are late with payments owed (b) you or an authorised user of your account breach any provision of these terms and conditions, (c) insolvency proceedings or similar proceedings are initiated or conducted against you, Liccium BV may, without prior notice, (i) block your account and your use of the Liccium Services, (ii) terminate your account, and (iii) use all other legal remedies available to Liccium BV.
 
-In the event of termination, the following will apply: (a) you will continue to owe all debts due, (b) licences and rights of use relating to the Website, the Liccium Services and intellectual property will cease to be available to you and will terminate, (c) the obligation on the part of Posth Werk BV to provide services to you will cease with immediate effect.
+In the event of termination, the following will apply: (a) you will continue to owe all debts due, (b) licences and rights of use relating to the Website, the Liccium Services and intellectual property will cease to be available to you and will terminate, (c) the obligation on the part of Liccium B.V. to provide services to you will cease with immediate effect.
 
 ### 13. Data Protection
 
-Posth Werk BV will use user data and content only as necessary to provide the Liccium services. Liccium BV may share user data and content with third-party service providers as necessary to provide the Liccium Services, such as hosting and storage providers. Any third-party service providers will be required to protect user data and content in accordance with this policy.
+Liccium B.V. will use user data and content only as necessary to provide the Liccium services. Liccium BV may share user data and content with third-party service providers as necessary to provide the Liccium Services, such as hosting and storage providers. Any third-party service providers will be required to protect user data and content in accordance with this policy.
 
 You have the right to access, correct, and delete your personal data at any time. You can contact us by sending an e-mail to info@liccium.com
 
@@ -149,7 +149,7 @@ Please see our Data Protection Policy in detail here, https://liccium.com/privac
 
 ### 14. Jurisdiction and Venue
 
-14.1 The Contract between you and Posth Werk BV is subject to Dutch Law, to the express exclusion of the rules of private international law.
+14.1 The Contract between you and Liccium B.V. is subject to Dutch Law, to the express exclusion of the rules of private international law.
 
 14.2 All disputes arising in connection with the present agreement, or further agreements resulting therefrom, shall be settled in accordance with the Arbitration Rules of the Netherlands Arbitration Institute ([NAI](https://www.google.com/url?q=https://www.rechtspraak.nl/English/NCC/Pages/Model-clause-arbitration.aspx\&sa=D\&source=docs\&ust=1699613508426667\&usg=AOvVaw0ki9Y96eRwzkd5QQZZF2ea)). The place of arbitration shall be Amsterdam (the Netherlands). The proceedings shall be conducted in English.
 
@@ -157,7 +157,7 @@ Please see our Data Protection Policy in detail here, https://liccium.com/privac
 
 ### Contact
 
-Posth Werk BV \
+Liccium B.V. \
 B0erhaavelaan ninty9, \
 two334 EG Leiden \
-E-mail: wErk @posth.me
+E-mail: i nfo @ liccium. com

@@ -1,6 +1,6 @@
 # Imprint information
 
-Posth Werk BV \
+Liccium B.V.\
 Sebastian Posth
 
 Boerhaavelaan 99 \
@@ -8,7 +8,7 @@ NL 23three4 EG Leiden\
 ​[werk@posth.me](mailto:werk@posth.me) \
 \+31 six 1two67sixseven26
 
-Version: v0.3 Date: 2023-10-23
+Version: v0.3 Date: 2024-03-24
 
 ### Licence <a href="#licence" id="licence"></a>
 
