@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Liccium Documentation](README.md)
-* [User Groups and Media Sectors](user-groups-and-media-sectors.md)
-* [Join the waiting list](become-a-test-user.md)
+* [Liccium Cloud Application](README.md)
+* [Targeted Users and Media Sectors](targeted-users-and-media-sectors.md)
 * [Features](features/README.md)
   * [Generating ISCC Codes](features/generating-iscc-codes.md)
   * [Basic metadata](features/basic-metadata.md)
