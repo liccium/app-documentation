@@ -18,9 +18,9 @@ Generating and maintaining essential key materials and digital certificates, cru
 
 ## Declaration API
 
-API for making verifiable declarations to trusted registries, both on-chain or off chain, accessible for third parties to verify the content's authenticity and credentials and to derive rights and product metadata.\
+API for making verifiable declarations to federated registries, both on-chain or off chain, accessible for third parties to verify the content's authenticity and credentials and to derive rights and product metadata.\
 
 
 {% hint style="info" %}
-Feel free to reach out to info @ liccium.com if you are interested in generating ISCC on premise.&#x20;
+Feel free to reach out to info@liccium.com if you are interested in generating ISCC on premise.&#x20;
 {% endhint %}
