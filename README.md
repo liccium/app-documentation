@@ -4,19 +4,17 @@ description: This is the documentation of the Liccium user application.
 
 # Liccium Documentation
 
+<figure><picture><source srcset=".gitbook/assets/Liccium horizontal-white.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/Liccium horizontal.png" alt=""></picture><figcaption></figcaption></figure>
 
+Introducing Liccium – the Invention of Trust for Digital Media.&#x20;
 
-<figure><picture><source srcset=".gitbook/assets/Liccium-Trust-Engine-white.png" media="(prefers-color-scheme: dark)"><img src="https://4212735520-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FC9WTgUwBWkLFAgW01Gqi%2Fuploads%2FtGQrB3l5By9bFdhTVlMA%2FLiccium-Trust-Engine.png?alt=media&#x26;token=066cdf2f-b362-4327-bbf4-2fee03046ffa" alt=""></picture><figcaption><p>Liccium Trust Engine – Digitally sign your original creative works!</p></figcaption></figure>
-
-Introducing Liccium Trust Engine – the next generation rights and media asset management for the decentralised web.&#x20;
+Liccium gives creators and rightsholders an intuitive platform to digitally sign and protect their original works, building trust in ownership, attribution and authenticity of digital media content.
 
 ### Verifiable declarations
 
-With Liccium, content creators and rightsholders can digitally sign their original creative works and make publicly verifiable declarations of their original content.
+Liccium helps creators and rightsholders to generate, manage, and declare content-derived identifiers (ISCC codes) for digital media content. Using ISCC, they can inseparably bind verifiable claims – e.g. rights, licenses, and other product metadata – to the fingerprint of their digital content.&#x20;
 
-Liccium helps creators and rightsholders to generate, manage, and declare content-derived identifiers (ISCC codes) for digital media content. Using ISCC, they can inseparably bind verifiable claims – e.g. rights, license, and other product metadata – to the fingerprint of their digital content.&#x20;
-
-All declarations are automatically accessible via decentralised content registries, which allow users or machines to discover, identify, and verify the authenticity and integrity of digital media content and resolve rights, licenses, and other product metadata.
+All declarations are automatically accessible via public and federated content registries, which allow users or machines to discover, identify, and verify the authenticity and integrity of digital media content and resolve rights, licences, and other product metadata.
 
 ### Creator attribution
 
@@ -26,13 +24,11 @@ Digital signatures and verifiable creator credentials increase trust in assertio
 
 Liccium is based on the International Standard Content Code (ISCC), a content-derived identifier, lightweight fingerprinting, and open identification system for digital media content of all media types (image, video, text, audio),  using cryptographic and similarity- preserving hashes to create a unique ID for each digital asset.&#x20;
 
-The ISCC is on its way to global recognition – after 5 years of work, in Q1/2024, ISCC is scheduled to become a universally approved ISO standard for decentralised digital content identification.&#x20;
+After 5 years of work at ISO TC 46/SC 9/WG 18, in May 2024 ISO has published the ISCC as an international standard digital content identification.&#x20;
 
-[Current status of the ISCC: Draft International Standard ISO 24138](https://www.iso.org/standard/77899.html)
+[ISO 24138:2024 – International Standard Content Code](https://www.iso.org/standard/77899.html)
 
-Using a novel standard for decentralised content identification (ISCC), these claims inseparably stick with the content without relying on watermarks or embedded metadata. This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity.&#x20;
-
-Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
+Using ISCC, rightsholders' claims are inseparably bound to the content without relying on watermarks or embedded metadata. This empowers any user, system, or machine with access to the digital asset to independently generate an identical or similar ISCC code, enabling the identification, comparison, and matching of digital content while assessing its integrity and authenticity. Thus, ISCC remains dependable, retaining its full range of capabilities even in scenarios where content is altered or manipulated, or when watermarks, steganographic data, or metadata is removed from the media asset.
 
 
 

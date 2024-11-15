@@ -2,7 +2,7 @@
 
 * [Liccium Documentation](README.md)
 * [User Groups and Media Sectors](user-groups-and-media-sectors.md)
-* [Become a test user](become-a-test-user.md)
+* [Join the waiting list](join-the-waiting-list.md)
 * [Features](features/README.md)
   * [Sign-up and log-in](features/sign-up-and-log-in.md)
   * [Generating ISCC Codes](features/generating-iscc-codes.md)
