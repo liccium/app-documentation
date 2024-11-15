@@ -4,7 +4,6 @@
 * [User Groups and Media Sectors](user-groups-and-media-sectors.md)
 * [Join the waiting list](become-a-test-user.md)
 * [Features](features/README.md)
-  * [Sign-up and log-in](features/sign-up-and-log-in.md)
   * [Generating ISCC Codes](features/generating-iscc-codes.md)
   * [Basic metadata](features/basic-metadata.md)
   * [Liccium plugins](features/liccium-plugins.md)
